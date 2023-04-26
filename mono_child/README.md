@@ -1,0 +1,3 @@
+# monorepo_child
+
+editA
